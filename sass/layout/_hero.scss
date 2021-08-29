@@ -1,0 +1,82 @@
+.section__hero{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+// .hero {
+  // // background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+  // //  url(../images/Bg.jpg);
+  // max-width: 1680px;
+  // background-size: cover;
+  // background-position: center;
+  // align-items: center;
+  // margin: 0 auto;
+  
+  // background-color: var(--secondary-background-color);
+  // padding: 118px 0;
+  // text-align: center;
+  // }
+  // @media screen and (min-device-pixel-ratio: 2) and (min-width: 230px),
+  // screen and (min-resolution: 192dpi) and (min-width: 230px),
+  // screen and (min-resolution: 2dppx) and (min-width: 230px) {
+  // .hero::after{
+  // background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/Bg@2x.jpg);
+  // }
+  // }
+
+.hero__title {
+  margin-right: 25px;
+  margin-left: auto;
+ 
+  
+  color: var(--color-white);
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.6;
+  text-align: right;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  }
+
+  // @media screen and (min-width: 768px){
+  //   .hero{
+  //   max-width: 1199px;
+  //   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+  //   url(../images/Bg.jpg);
+  //     }
+  //   }
+  //   .hero__title{
+  //     font-weight: 900;
+  //     margin-right: 70px;
+  //   }
+  // @media screen and (min-device-pixel-ratio: 2) and (min-width: 768px),
+  // screen and (min-resolution: 192dpi) and (min-width: 768px),
+  // screen and (min-resolution: 2dppx) and (min-width: 768px) {
+  // .hero{
+  // background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/Bg@2x.jpg);
+  // }
+  // }
+  // @media screen and (min-width: 1444px){
+  //   .hero{
+  //   max-width: 1600px;
+  //   background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+  //   url(../images/Bg.jpg);
+  //   padding: 200px 0;
+  //   }
+  // .hero__title{
+  //   margin-right: 120px;
+  //     font-weight: 900;
+      
+    
+  //     max-width: 696px;
+  //     font-size: 44px;
+  //     line-height: 1.36;
+  //   }
+  //   }
+  // @media screen and (min-device-pixel-ratio: 2) and (min-width: 1444px),
+  // screen and (min-resolution: 192dpi) and (min-width: 1444px),
+  // screen and (min-resolution: 2dppx) and (min-width: 1444px) {
+  // .hero{
+  // background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/Bg@2x.jpg);
+  // }
+  // }
